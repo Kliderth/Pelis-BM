@@ -1,0 +1,397 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "id": 1265609,
+    "original_language": "en",
+    "original_title": "War Machine",
+    "overview": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
+    "popularity": 596.0341,
+    "poster_path": "/d5YmQx9kPLQBHEboGwrAavypztB.jpg",
+    "release_date": "2026-02-12",
+    "title": "Máquina de guerra",
+    "video": false,
+    "vote_average": 7.205,
+    "vote_count": 769
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/u6YE4rlEWOiYoqhPJuNvt5GHxgu.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1290821,
+    "original_language": "en",
+    "original_title": "Shelter",
+    "overview": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
+    "popularity": 300.8271,
+    "poster_path": "/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg",
+    "release_date": "2026-01-28",
+    "title": "Shelter: El Protector",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 298
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hYgUkH7TusddHRtelj53I6gFOWR.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 799882,
+    "original_language": "en",
+    "original_title": "The Bluff",
+    "overview": "Una pirata retirada que vive tranquilamente en una remota isla debe enfrentarse a su pasado y usar sus habilidades letales para salvar a su familia de un implacable asedio cuando su antiguo capitán aparece para vengarse de ella.",
+    "popularity": 203.908,
+    "poster_path": "/uuIP7lRgzSjaZ4CT33WHfctLARs.jpg",
+    "release_date": "2026-02-17",
+    "title": "El engaño",
+    "video": false,
+    "vote_average": 6.296,
+    "vote_count": 260
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+    "genre_ids": [
+      16,
+      35,
+      12,
+      10751,
+      9648
+    ],
+    "id": 1084242,
+    "original_language": "en",
+    "original_title": "Zootopia 2",
+    "overview": "Después de resolver el caso más importante en la historia de Zootrópolis, los policías novatos Judy Hopps y Nick Wilde descubren que su asociación no es tan sólida como pensaban cuando el Jefe Bogo les ordena unirse al programa de consejería \"Compañeros en Crisis\". Pero no pasa mucho tiempo para que su asociación se ponga a prueba al máximo, cuando la llegada de Gary, la serpiente, pone la ciudad patas arriba.",
+    "popularity": 170.8567,
+    "poster_path": "/4fRdfQPjHiuDSkzaxFAV44k7Iem.jpg",
+    "release_date": "2025-11-26",
+    "title": "Zootrópolis 2",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 2150
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      878,
+      35
+    ],
+    "id": 1327819,
+    "original_language": "en",
+    "original_title": "Hoppers",
+    "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+    "popularity": 152.1191,
+    "poster_path": "/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
+    "release_date": "2026-03-04",
+    "title": "Hoppers",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 181
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
+    "genre_ids": [
+      12,
+      53,
+      878
+    ],
+    "id": 840464,
+    "original_language": "en",
+    "original_title": "Greenland 2: Migration",
+    "overview": "La familia Garrity superviviente debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
+    "popularity": 137.749,
+    "poster_path": "/3yrX2kZ1zXZ1JJeexMobX77VVim.jpg",
+    "release_date": "2026-01-07",
+    "title": "Greenland 2",
+    "video": false,
+    "vote_average": 6.463,
+    "vote_count": 595
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 1193501,
+    "original_language": "en",
+    "original_title": "Whistle",
+    "overview": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
+    "popularity": 135.7866,
+    "poster_path": "/cApRXj6meulAQMYQrhjfVvZEItl.jpg",
+    "release_date": "2026-01-20",
+    "title": "Whistle: El silbido del mal",
+    "video": false,
+    "vote_average": 6.115,
+    "vote_count": 139
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
+    "genre_ids": [
+      878,
+      28,
+      53
+    ],
+    "id": 1236153,
+    "original_language": "en",
+    "original_title": "Mercy",
+    "overview": "En un futuro próximo, un detective (Chris Pratt) es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la I.A. avanzada (Rebecca Ferguson), a la que él mismo defendió en su día, antes de que esta decida su destino.",
+    "popularity": 130.0516,
+    "poster_path": "/9zBNg8koM3fjUTPT7QeJHuGG2r9.jpg",
+    "release_date": "2026-01-20",
+    "title": "Sin piedad",
+    "video": false,
+    "vote_average": 7.111,
+    "vote_count": 722
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1523145,
+    "original_language": "ru",
+    "original_title": "Твое сердце будет разбито",
+    "overview": "",
+    "popularity": 121.34,
+    "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+    "release_date": "2026-03-26",
+    "title": "Твое сердце будет разбито",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1088434,
+    "original_language": "en",
+    "original_title": "Hellfire",
+    "overview": "Un hombre solitario llega a un pequeño pueblo y descubre que sus habitantes viven bajo el control de un líder cruel, así que decide intervenir para intentar liberarlos.",
+    "popularity": 116.4,
+    "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+    "release_date": "2026-02-05",
+    "title": "Hellfire",
+    "video": false,
+    "vote_average": 6.917,
+    "vote_count": 54
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80,
+      9648
+    ],
+    "id": 1168190,
+    "original_language": "en",
+    "original_title": "The Wrecking Crew",
+    "overview": "Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.",
+    "popularity": 111.1552,
+    "poster_path": "/ttEESBvVrO8ngZr19qp6eBMVS9F.jpg",
+    "release_date": "2026-01-28",
+    "title": "Los hermanos demolición",
+    "video": false,
+    "vote_average": 6.884,
+    "vote_count": 779
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+    "genre_ids": [
+      878,
+      28,
+      35
+    ],
+    "id": 1119449,
+    "original_language": "en",
+    "original_title": "Good Luck, Have Fun, Don't Die",
+    "overview": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+    "popularity": 108.2256,
+    "poster_path": "/dtEVoZBMuwlgz4mh4PA75eVbBM1.jpg",
+    "release_date": "2026-02-13",
+    "title": "Buena suerte, pásalo bien, no mueras",
+    "video": false,
+    "vote_average": 6.941,
+    "vote_count": 136
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lmns2jlRmATs8OGWKcCkgrbHLM4.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 1634301,
+    "original_language": "te",
+    "original_title": "Vanaveera",
+    "overview": "",
+    "popularity": 107.3239,
+    "poster_path": "/oBYExKI8E3bTzQjPkofhpV2EJon.jpg",
+    "release_date": "2026-02-13",
+    "title": "Vanaveera",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "id": 755898,
+    "original_language": "en",
+    "original_title": "War of the Worlds",
+    "overview": "Will Radford, un destacado analista de ciberseguridad, pasa sus días rastreando posibles amenazas a la seguridad nacional a través de un programa de vigilancia masiva. Un ataque de una entidad desconocida le lleva a cuestionarse si el gobierno le está ocultando algo a él... y al resto del mundo.",
+    "popularity": 102.5597,
+    "poster_path": "/fjgSlNGECNgVeMJaOdDAXmGh7ZM.jpg",
+    "release_date": "2025-07-29",
+    "title": "La guerra de los mundos",
+    "video": false,
+    "vote_average": 4.158,
+    "vote_count": 919
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
+    "genre_ids": [
+      878,
+      12,
+      14
+    ],
+    "id": 83533,
+    "original_language": "en",
+    "original_title": "Avatar: Fire and Ash",
+    "overview": "Jake Sully y Neytiri enfrentan una nueva amenaza en Pandora: los Ash People, una tribu Na'vi violenta y sedienta de poder, liderada por la implacable Varang. Tras la devastadora guerra contra la RDA y la pérdida de su hijo mayor, la familia de Jake deberá luchar por su supervivencia y el futuro de Pandora en un conflicto que llevará a los personajes a sus límites emocionales y físicos. Con nuevos y antiguos aliados, esta épica visual y emocional redefine el destino de un mundo al borde del abismo.",
+    "popularity": 99.1785,
+    "poster_path": "/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
+    "release_date": "2025-12-17",
+    "title": "Avatar: Fuego y ceniza",
+    "video": false,
+    "vote_average": 7.264,
+    "vote_count": 1888
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1316092,
+    "original_language": "en",
+    "original_title": "\"Wuthering Heights\"",
+    "overview": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
+    "popularity": 96.9199,
+    "poster_path": "/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+    "release_date": "2026-02-11",
+    "title": "“Cumbres Borrascosas”",
+    "video": false,
+    "vote_average": 6.37,
+    "vote_count": 506
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "id": 1368166,
+    "original_language": "en",
+    "original_title": "The Housemaid",
+    "overview": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
+    "popularity": 93.0185,
+    "poster_path": "/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+    "release_date": "2025-12-18",
+    "title": "La asistenta",
+    "video": false,
+    "vote_average": 7.249,
+    "vote_count": 1503
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gmu4liRCTk5nKSiGL6XHFbsJvD8.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1451398,
+    "original_language": "ja",
+    "original_title": "カラダ探し THE LAST NIGHT",
+    "overview": "Tres años después del último juego mortal, la pesadilla regresa y un grupo de estudiantes lucha por salir con vida y acabar con esta horrible maldición.",
+    "popularity": 92.9655,
+    "poster_path": "/lCDy4STGnqVS8QE6cAxD5phdxfI.jpg",
+    "release_date": "2025-09-05",
+    "title": "Re/Member: La ultima noche",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lNYympQM5O6QSInusbyG9eJDIe4.jpg",
+    "genre_ids": [
+      16,
+      28,
+      14
+    ],
+    "id": 1311031,
+    "original_language": "ja",
+    "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+    "overview": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+    "popularity": 92.615,
+    "poster_path": "/iWLV12z9oexSRLz2WKyqCZbKoPA.jpg",
+    "release_date": "2025-07-18",
+    "title": "Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 762
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
+    "genre_ids": [
+      9648,
+      18,
+      27
+    ],
+    "id": 680493,
+    "original_language": "en",
+    "original_title": "Return to Silent Hill",
+    "overview": "Impulsado por las sombras de su pasado, James Sunderland regresa a Silent Hill para encontrar a su amor perdido, Mary Crane. Pero el pequeño pueblo oscuro y deprimente ya no es el lugar de sus recuerdos. James se encuentra con personajes que le parecen demasiado familiares y que intentan distraerlo de su búsqueda de Mary. Cuanto más busca a Mary, más comienza a preguntarse si esto sigue siendo la realidad, o si ha caído en el oscuro inframundo de Jacob Crane.",
+    "popularity": 89.8519,
+    "poster_path": "/5Y2TeCVEnwPbd4FDShGbkKYw6GE.jpg",
+    "release_date": "2026-01-21",
+    "title": "Return to Silent Hill",
+    "video": false,
+    "vote_average": 5.041,
+    "vote_count": 266
+  }
+]

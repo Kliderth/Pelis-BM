@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Pelis BM es un sitio web dedicado a proporcionar información sobre películas, incluyendo reseñas, trailers y rankings de las mejores y peores películas, comparativas de rankings, con la posibilidad de que dejes tu comentario de la pelicula.">
+    <meta name="keywords" content="peliculas, ranking de peliculas, reseñas de peliculas, trailers de peliculas, comparativas de rankings, comentarios de peliculas">
+    <meta name="author" content="Kliderth Herrera">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="Spanish">
+    
+    <!-- Open Graph / Facebook (Para que se vea bien al compartir link) -->
+    <meta property="og:type" content="website">
+    <!--<meta property="og:url" content="https://tu-dominio.com">-->
+    <meta property="og:title" content="MovieRanker | Las Mejores Películas según la Comunidad">
+    <meta property="og:description" content="Explora nuestro top de cine y añade tus valoraciones.">
+    <meta property="og:image" content="assets/img/og-preview.jpg">
+
+    <!-- Twitter Cards -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="MovieRanker">
+    <meta property="twitter:description" content="¿Cuál es la mejor película de la historia? Únete y vota.">
+    <meta property="twitter:image" content="assets/img/og-preview.jpg">
+
+    <!-- Favicon -->
+    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <title>Pelis BM | ranking de peliculas</title>
+    <!--styles-->
+    <link rel="stylesheet" href="styles/styles.css">
+    
+</head>
+<body>
+    <header>
+        <h1>Pelis BM</h1>
+        <nav class="navbar">
+                    <div class="logo">
+                <img src="assets/img/logo.png" alt="Logo de Pelis BM">
+            </div>
+            <!-- Barra de búsqueda -->
+            <form class="search-bar" id="search-form"
+                action="search.html" method="GET">
+                <input type="text" placeholder="Buscar película..." id="search-input">
+                <button type="submit">Buscar</button>
+        </form>
+
+            <!-- Menú de navegación --> 
+            <button class="menu-toggle" id="menu-toggle">☰</button>   
+           
+             <ul class="nav-menu" id="nav-menu">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="ranking.html">Ranking</a></li>
+                <li><a href="comparativa.html">Comparativa</a></li>
+                <li><a href="comentarios.html">Comentarios</a></li>
+            </ul>
+            <!-- Icono de perfil de usuario / inicio de seccion -->
+            <div class="user-profile">
+                <a href="inicio.html">
+                    <img src="assets/img/user.svg" alt="Perfil de usuario">
+                </a>
+            </div>
+        </nav>
+    </header>
+    <!-- Contenido principal -->
+    <main class="container" id="main-content" >
+        <!--carrusel-->
+        <section id="carousel"> 
+            <div class="carousel-track" id="carouselTrack">
+                
+            </div>
+        </section>
+        
+        <!--cargar contenido por api-->
+        <section id="movieList">
+        
+        <!-- Aquí se cargarán las películas desde la API -->        
+        </section>
+        <a href="compare.html">Ir al comparador</a>
+
+
+        <!--contenido de bienvenida-->
+        
+        <section    class="welcome-section">
+            <h2 class="title-h2">Bienvenido a Pelis BM</h2>
+            <p>Descubre las mejores películas según la comunidad, lee reseñas, mira trailers y comparte tus opiniones.</p>
+           
+        </section>
+    </main>
+    <footer>
+        <!-- Redes sociales del pie de página -->
+        <div class="footer-rrss">
+            <a href="https://facebook.com/pelisbm" target="_blank" rel="noopener noreferrer">
+                <img src="assets/img/facebook-icon.png" alt="Facebook">
+            </a>
+            <a href="https://twitter.com/pelisbm" target="_blank" rel="noopener noreferrer">
+                <img src="assets/img/twitter-icon.png" alt="Twitter">
+            </a>
+            <a href="https://instagram.com/pelisbm" target="_blank" rel="noopener noreferrer">
+                <img src="assets/img/instagram-icon.png" alt="Instagram">
+            </a>
+        </div>
+        <!--terminos y condiciones/politicas de uso/descartes legales-->
+        <div class="footer-legal">
+            <a href="terminos.html">Términos y Condiciones</a>
+            <a href="privacidad.html">Política de Privacidad</a>
+            <a href="cookies.html">Política de Cookies</a>
+        </div>
+        <!-- Copyright -->
+        <p>&copy; 2024 Pelis BM. Todos los derechos reservados.</p>
+    </footer>
+    <!--scripts-->
+    <script src="js/app.js" defer></script>
+</body>
+ 
+</html>

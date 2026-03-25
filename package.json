@@ -1,0 +1,14 @@
+{
+  "name": "peliculas-bm",
+  "version": "1.0.0",
+  "description": "Script para obtener datos de TMDB y visualizarlos con paginación y comparación",
+  "main": "data_api.js",
+  "scripts": {
+    "start": "node data_api.js"
+  },
+  "author": "Kliderth Herrera",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
