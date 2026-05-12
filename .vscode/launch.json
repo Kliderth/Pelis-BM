@@ -9,7 +9,9 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/home/kliderth/Portfolio/Proyecto Peliculas ranking/public/index.html"
+            "file": "./index.html",
+            "webRoot": "${workspaceFolder}",
+            "runtimeExecutable": "stable" 
         }
     ]
 }

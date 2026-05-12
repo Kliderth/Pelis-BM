@@ -1,8 +1,7 @@
-// Importamos el módulo de sistema de archivos con soporte para promesas [4-6]
-const fs = require("fs").promises;
-// Si usas una versión antigua de Node, podrías necesitar require("node-fetch") [4, 9]
+// Importamos el módulo de sistema de archivos con soporte para promesas
+import fs from "fs/promises";
 
-async function DataMovies() {
+export async function DataMovies() {
   // Configuración de la API (Debes obtener tu clave en la configuración de TMDB) [10]
   const apiKey = "b70690222683bfe6d80d5d3113e21683";
   const idioma = "es-ES";
@@ -22,11 +21,11 @@ async function DataMovies() {
     // 4. Escritura del archivo .json en el sistema local [4, 5, 16]
     await fs.writeFile("./data/moviesList.json", contenidoJson);
     
-    console.log("La lista de películas se ha guardado exitosamente en moviesList.json.");
+    console.log("✓ moviesList.json actualizado.");
   } catch (error) {
     // Manejo de errores en caso de fallos de red o de la API [7, 17, 18]
     console.error("Error al procesar la solicitud:", error);
   }
 }
 
-DataMovies();
+DataMovies;

@@ -7,6 +7,7 @@
 
 > Sitio web dedicado a rankings, reseñas y comparativas de películas,
 > donde la comunidad puede votar y comentar sus favoritas.
+> en mi pensar los criticos pueden saber de tecnicas de video, edición o grabacion. Pero eso no determina que una pelicula guste o sea buena. Sus criterios tambien suelen estar sesgados por eso nace este proyecto solo quiero que las personas ordinarias sean las que emitan su juicio y sean ellos los que determinen si una pelicula vale la pena o no. 
 
 ---
 

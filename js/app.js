@@ -1,6 +1,6 @@
 let movies = []
 
-async function loadMovies(){
+export async function loadMovies(){
 
 const res = await fetch("./data/movies.json")
 
@@ -19,6 +19,7 @@ loadMovies()
 /*============================
   nav responsive
 =============================*/
+export function initNavMenu(){
 
 const showMenu = (toggleid, navID) => {
 const toggleBtn = document.getElementById(toggleid)
@@ -33,14 +34,14 @@ navMenu.classList.toggle("show-menu")
 })
 
 }}
-showMenu("menu-toggle", "nav-menu")
-
+ showMenu("menu-toggle", "nav-menu")
+}
 
 /* ======================
 CAROUSEL
 ====================== */
 
-function createCarousel(movies){
+export function createCarousel(movies){
 
 const carousel = document.getElementById("carouselTrack")
 
@@ -79,7 +80,8 @@ setInterval(moveCarousel, 4000)
 LISTA DE PELICULAS
 ====================== */
 
-function createMovieList(movies){
+export function createMovieList(movies){
+
 
 const list = document.getElementById("movieList")
 
