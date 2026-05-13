@@ -1,6 +1,6 @@
 // Importamos el módulo de sistema de archivos con soporte para promesas
 import fs from "fs/promises";
-require ("dotenv").config();
+import 'dotenv/config'; // Cargamos las variables de entorno desde el archivo .env
 
 export async function DataMovies() {
   // Configuración de la API (Debes obtener tu clave en la configuración de TMDB) [10]
