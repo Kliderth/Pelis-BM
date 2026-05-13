@@ -1,6 +1,7 @@
 import fs from "fs";
+require ("dotenv").config();
 
-const API_KEY = "b70690222683bfe6d80d5d3113e21683";
+const API_KEY = process.env.TMDB_API_KEY;
 const BASE_URL = "https://api.themoviedb.org/3";
 
 let movies = [];

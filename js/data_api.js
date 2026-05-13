@@ -1,9 +1,10 @@
 // Importamos el módulo de sistema de archivos con soporte para promesas
 import fs from "fs/promises";
+require ("dotenv").config();
 
 export async function DataMovies() {
   // Configuración de la API (Debes obtener tu clave en la configuración de TMDB) [10]
-  const apiKey = "b70690222683bfe6d80d5d3113e21683";
+  const apiKey = process.env.TMDB_API_KEY;
   const idioma = "es-ES";
   const urlLista = `https://api.themoviedb.org/3/movie/?api_key=${apiKey}&language=${idioma}`;
 
