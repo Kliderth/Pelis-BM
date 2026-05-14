@@ -15,7 +15,7 @@
 👉 [pelis-bm.vercel.app](https://pelis-bm.vercel.app)
 
 ## 📸 Vista previa
-![Preview](assets/img/og-preview.jpg)
+![Preview](assets/img/demo/preview.png)
 
 ---
 
