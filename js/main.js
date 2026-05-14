@@ -1,9 +1,14 @@
-import {loadMovies, movies, initNavMenu, createCarousel, createMovieList} from "./app.js";
+import {loadMovies} from "./modules/api.js";
+import {initNavMenu} from "./modules/nav.js";
+import {createCarousel} from "./modules/carousel.js";
+import {createMovieList} from "./modules/movies.js";
+//import {SupabaseClient} from "./modules/supabase.js";
+
 
 document.addEventListener("DOMContentLoaded", async () => {
   try {
     // 1. Cargar películas primero
-    await loadMovies()
+    const movies = await loadMovies()
     
     // 2. Una vez cargadas, crear carousel y lista
     createCarousel(movies)
