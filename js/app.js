@@ -1,4 +1,4 @@
-let movies = []
+export let movies = []
 
 export async function loadMovies(){
 
@@ -6,15 +6,9 @@ const res = await fetch("./data/movies.json")
 
 movies = await res.json()
 
-createCarousel(movies)
-
-createMovieList(movies)
-
-
+return movies
 
 }
-
-loadMovies()
 
 /*============================
   nav responsive
@@ -72,9 +66,17 @@ carousel.appendChild(slide)
 
 }
 
+export function moveCarousel() {
+  const carousel = document.getElementById("carouselTrack")
+  const slides = carousel.querySelectorAll(".slide")
+  
+  if (slides.length === 0) return
+  
+  const firstSlide = slides[0]
+  carousel.appendChild(firstSlide)
+}
 
 setInterval(moveCarousel, 4000)
-
 
 /* ======================
 LISTA DE PELICULAS
@@ -108,12 +110,12 @@ list.appendChild(card)
 })
 
 }
-import 'dotenv/config';
-export function SupabaseClient() {
-  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
-  const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY;
-  return window.supabase.createClient(supabaseUrl, supabaseKey);
-}
+// TODO: Configurar Supabase con variables de entorno
+// export function SupabaseClient() {
+//   const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+//   const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY;
+//   return window.supabase.createClient(supabaseUrl, supabaseKey);
+// }
 
 
   
